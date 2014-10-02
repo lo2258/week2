@@ -1,3 +1,9 @@
 $(document).ready(function(){
-  // alert('Welcome to StarTrackr! Now no longer under police investigation!');
+	console.log("OMG JAVASCRIPT")
+
+	// id's of celebs and table rows
+	// .length - action
+	// Prints everything after 
+	 
+	alert($("#celebs tr").length + " elements!")
 });
